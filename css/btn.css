@@ -1,0 +1,44 @@
+.btn-lacivert{
+    background-color: #2E4C6D;
+    color: #fff;
+}
+.btn-lacivert:hover{  
+    background-color: #fff !important;
+    border: 2px solid #2E4C6D !important;
+    color: #2E4C6D !important;
+    font-weight: bold;
+    opacity: .7;
+    transition: .5s ;
+}
+
+.btn-pudra{
+    background-color: #FC997C;
+    color: #fff;
+}
+.btn-pudra:hover{
+    color: #FC997C;
+    background-color: #fff;
+    border: #FC997C;
+}
+.bg-lacivert{
+    background-color: #2E4C6D;
+    color: #fff;
+}
+.bg-mavi{
+    background-color: #396EB0;
+    color: #fff;
+}
+.bg-pudra{
+    background-color: #FC997C;
+    color: #fff;
+}
+.bg-outline-pudra{
+    color: #FC997C;
+    background-color: #fff;
+}
+.text-mavi{
+    color: #396EB0;
+}
+.text-pudra{
+    color: #FC997C;
+}
